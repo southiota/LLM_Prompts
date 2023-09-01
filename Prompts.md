@@ -9,7 +9,7 @@
 
 # 만능 프롬프트
 
-참고: https://www.gpters.org/c/freeforum/image-png
+출처: https://www.gpters.org/c/freeforum/image-png
 ```
 Please answer the #Topic following the conditions below
 
